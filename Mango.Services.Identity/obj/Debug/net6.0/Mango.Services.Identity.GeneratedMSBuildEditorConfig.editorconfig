@@ -1,0 +1,124 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Mango.Services.Identity
+build_property.RootNamespace = Mango.Services.Identity
+build_property.ProjectDir = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\
+build_property.RazorLangVersion = 5.0
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity
+build_property._RazorSourceGeneratorDebug = 
+build_property._RazorSourceGeneratorLog = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Account\AccessDenied.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/Account/LoggedOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Account\LoggedOut.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\Account\LoggedOut.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Account\Login.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\Account\Login.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Account\Logout.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\Account\Logout.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Account\Register.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\Account\Register.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/Consent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Consent\Index.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\Consent\Index.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/Device/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Device\Success.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\Device\Success.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/Device/UserCodeCapture.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Device\UserCodeCapture.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\Device\UserCodeCapture.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/Device/UserCodeConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Device\UserCodeConfirmation.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\Device\UserCodeConfirmation.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/Diagnostics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Diagnostics\Index.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\Diagnostics\Index.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/Grants/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Grants\Index.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\Grants\Index.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Home\Index.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\Home\Index.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Home\Privacy.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\Home\Privacy.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Shared\Error.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\Shared\Error.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/Shared/Redirect.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Shared\Redirect.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\Shared\Redirect.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Shared\_Layout.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/Shared/_Nav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Shared\_Nav.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\Shared\_Nav.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/Shared/_ScopeListItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Shared\_ScopeListItem.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\Shared\_ScopeListItem.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Shared\_ValidationScriptsPartial.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/Shared/_ValidationSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Shared\_ValidationSummary.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\Shared\_ValidationSummary.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\_ViewImports.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\_ViewImports.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/karu/source/repos/MangoRestaurant/Mango.Services.Identity/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\_ViewStart.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\Users\karu\source\repos\MangoRestaurant\Mango.Services.Identity\obj\Debug\net6.0\Razor\Views\_ViewStart.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope =
